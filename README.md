@@ -9,7 +9,7 @@
 
 ```java
 
-class Niclas : Person {
+class Niclas {
 
   private String name = "Niclas";
   private String nationality = "German";
