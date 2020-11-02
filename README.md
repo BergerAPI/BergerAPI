@@ -14,8 +14,8 @@ class Niclas {
   private String name = "Niclas";
   private String nationality = "German";
   private String currentJob = "Student";
-  private String[] codingLanguages = Arrays.asList("Kotlin", "Java", "C#");
-  private String[] currentlyLearning = Arrays.asList("Typescript");
+  private String[] codingLanguages = new String[]{"Kotlin", "Java", "C#"};
+  private String[] currentlyLearning = new String[]{"Typescript"};
   private String currentProject = "Challange-Client";
 
 }
