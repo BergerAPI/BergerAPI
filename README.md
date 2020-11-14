@@ -19,3 +19,6 @@ class Niclas {
 }
 
 ```
+<a href="https://github.com/BergerAPI/BergerAPI">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BergerAPI&show_icons=true&theme=radical&line_height=27" alt="BergerAPI" />
+</a>
