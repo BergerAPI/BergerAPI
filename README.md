@@ -24,6 +24,5 @@ class Niclas {
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-FF5784?style=for-the-badge&logo=Ubuntu)](https://ubuntu.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-04B404?style=for-the-badge&logo=GitHub)](https://github.com)
 
-<a href="https://github.com/BergerAPI/BergerAPI">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BergerAPI&show_icons=true&theme=radical&line_height=27" alt="BergerAPI" />
+![challenge_yes](https://minecraftskinstealer.com/achievement/2/Achievement+Got%21/You+Read+My+Profile)
 </a>
